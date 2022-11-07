@@ -1,0 +1,25 @@
+.container{
+    border-color: black;
+}
+.container .card{
+    width: 200px;
+    height: 800px;
+    background-color: aliceblue;
+    border-radius: 30px;
+    padding: 30px;
+    color: rgb(12, 11, 11);
+    font-size: larger;
+}
+.free{
+    margin-top: 50px;
+    font-size:xx-large;
+    font-weight: bold;
+    font-family: 'Times New Roman';
+}
+#a{
+    border-radius: 25px;
+    color: rgb(26, 24, 22);
+    height: 40px;
+    width: 150px;
+    margin-bottom: 80px;
+}
